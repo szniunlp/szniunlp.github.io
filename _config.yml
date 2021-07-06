@@ -1,6 +1,6 @@
 title: Qian Dong
 url: "https://github.com"
-baseurl: "/DQ0408"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/DQ0408/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

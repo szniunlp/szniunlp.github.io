@@ -1,5 +1,5 @@
-title: Qian Dong
-url: "https://github.com/DQ0408"
+title: Shuzi Niu
+url: "https://github.com/szniunlp"
 baseurl: ""
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/DQ0408"
+footer_url: "https://github.com/szniunlp"
 footer_text: "My Github"
 
 sass:
@@ -22,3 +22,5 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Group"
+   link: "group

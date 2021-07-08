@@ -6,19 +6,22 @@ layout: default
 
 <img class="profile-picture" src="dq.jpg">
 
-Hi! I am Qian Dong(董骞), a second-year graduate student of [ISCAS](http://www.iscas.ac.cn/).
+Hi! I am Shuzi Niu(牛树梓), an associate researcher of [ISCAS](http://people.ucas.ac.cn/~0058210).
 
 ## Research Interest
 
-My research interest is natural language processing -> information retrieval. Here is my [google scholar](https://scholar.google.com/citations?user=m88SZGgAAAAJ&hl=en).
+My research interest is natural language processing -> information retrieval. Here is my [dblp](https://dblp.uni-trier.de/pid/07/7831.htm).
 
-## Publications
-
-1. **Qian Dong**, Shuzi Niu: **Legal Judgment Prediction via Relational Learning**, *The 44th International ACM SIGIR Conference
+## Selected Publications
+<font size=2 >2021</font>
+1.Xinwei Long, **Shuzi Niu** and Yucheng Li: **Position Enhanced Mention Graph Attention Network for Dialogue Relation Extraction**, *The 44th International ACM SIGIR Conference
 on Research and Development in Information Retrieval (SIGIR2021).*
-2. **Qian Dong**, Shuzi Niu: **Latent Graph Recurrent Network for Document Ranking**, *The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
-3. **Qian Dong**, Shuzi Niu, Yucheng Li: **Disentangled Graph Recurrent Network for Document Ranking**, *DASFAA2021 Special Issue.*
-4. Zhijuan Shen, Jun Cheng, Xiping Hu, **Qian Dong**: **Emotion recognition based on multi-view body gestures**, *The 26th IEEE International Conference on Image Processing (ICIP2019).*
+2.Xinwei Long, **Shuzi Niu** and Yucheng Li: **Consistent Inference for Dialogue Relation Extraction**, *The 30th International Joint Conference on Artificial Intelligence (IJCAI-21).*
+3. Qian Dong, **Shuzi Niu**: **Legal Judgment Prediction via Relational Learning**, *The 44th International ACM SIGIR Conference
+on Research and Development in Information Retrieval (SIGIR2021).*
+4. Qian Dong, **Shuzi Niu**: **Latent Graph Recurrent Network for Document Ranking**, *The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
+5. Qian Dong, **Shuzi Niu**, Yucheng Li: **Disentangled Graph Recurrent Network for Document Ranking**, *DASFAA2021 Special Issue.*
+6. Tao Yuan, **Shuzi Niu**, Huiyuan Li： **Topological Interpretable Multi-scale Sequential Recommendation**,*The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
 
 <!--
 ## Typography

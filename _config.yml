@@ -1,0 +1,26 @@
+title: Shuzi Niu
+url: "https://github.com/szniunlp"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/szniunlp"
+footer_text: "My Github"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+ - name: "Group"
+   link: "group

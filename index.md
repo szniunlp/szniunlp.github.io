@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="dq.jpg">
+<img class="profile-picture" src="nsz.jpg">
 
 Hi! I am Shuzi Niu(牛树梓), an associate researcher of [ISCAS](http://people.ucas.ac.cn/~0058210).
 
@@ -13,10 +13,10 @@ Hi! I am Shuzi Niu(牛树梓), an associate researcher of [ISCAS](http://people.
 My research interest is natural language processing -> information retrieval. Here is my [dblp](https://dblp.uni-trier.de/pid/07/7831.htm).
 
 ## Selected Publications
-<font size=2 >2021</font>
-1.Xinwei Long, **Shuzi Niu** and Yucheng Li: **Position Enhanced Mention Graph Attention Network for Dialogue Relation Extraction**, *The 44th International ACM SIGIR Conference
+<font size=5 >2021</font>
+1. Xinwei Long, **Shuzi Niu** and Yucheng Li: **Position Enhanced Mention Graph Attention Network for Dialogue Relation Extraction**, *The 44th International ACM SIGIR Conference
 on Research and Development in Information Retrieval (SIGIR2021).*
-2.Xinwei Long, **Shuzi Niu** and Yucheng Li: **Consistent Inference for Dialogue Relation Extraction**, *The 30th International Joint Conference on Artificial Intelligence (IJCAI-21).*
+2. Xinwei Long, **Shuzi Niu** and Yucheng Li: **Consistent Inference for Dialogue Relation Extraction**, *The 30th International Joint Conference on Artificial Intelligence (IJCAI-21).*
 3. Qian Dong, **Shuzi Niu**: **Legal Judgment Prediction via Relational Learning**, *The 44th International ACM SIGIR Conference
 on Research and Development in Information Retrieval (SIGIR2021).*
 4. Qian Dong, **Shuzi Niu**: **Latent Graph Recurrent Network for Document Ranking**, *The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
